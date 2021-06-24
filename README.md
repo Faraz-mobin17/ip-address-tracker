@@ -37,8 +37,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github](https://your-solution-url.com)
-- Live Site URL: [Netlify](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/Faraz-mobin17/ip-address-tracker)
+- Live Site URL: [Netlify](https://lucid-curran-edd8b7.netlify.app/)
 
 ## My process
 
